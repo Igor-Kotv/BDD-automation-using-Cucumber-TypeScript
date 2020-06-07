@@ -2,7 +2,8 @@
 
 ### Requirements
 
-Browser: Chrome 
+Browser: Chrome 83
+
 NodeJS: v6.11.3+
 
 ### Installation
