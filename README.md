@@ -2,9 +2,9 @@
 
 ### Requirements
 
-Browser: Chrome 79
+Browser: Chrome 80+
 
-NodeJS: v6.11.3
+NodeJS: v6.11.3+
 
 ### Installation
 
